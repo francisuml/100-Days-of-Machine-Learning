@@ -9,6 +9,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 1  | Introduction to Machine Learning |
 | 2  | NumPy for Machine Learning |
 | 3  | Pandas for Data Handling |
+| 4  | Data Visualization with Matplotlib, Seaborn & Plotly |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -23,10 +24,12 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 │── Day2_NumPy/          # NumPy for Machine Learning
 │── Day3_Pandas/         # Pandas for Data Handling
 │── README.md            # This file (Project Overview)
+│── Day4_Data Visualization with Matplotlib, Seaborn & Plotly/         # Pandas for Data Handling
+│── README.md            # This file (Project Overview)
 ```
 
 ## 📌 Next Steps
-- **Day 4:** Data Cleaning and Preprocessing
+- **Day 5:** Data Preprocessing
 - Continue exploring **real-world ML applications**
 
 Stay consistent and let's **master Machine Learning!** 🚀
