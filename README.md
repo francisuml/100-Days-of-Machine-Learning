@@ -8,6 +8,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |----|-----------------------------|
 | 1  | Introduction to Machine Learning |
 | 2  | NumPy for Machine Learning |
+| 3  | Pandas for Data Handling |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -20,11 +21,12 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 100_Days_ML/
 │── Day1_ML_Intro/       # Introduction to Machine Learning
 │── Day2_NumPy/          # NumPy for Machine Learning
+│── Day3_Pandas/         # Pandas for Data Handling
 │── README.md            # This file (Project Overview)
 ```
 
 ## 📌 Next Steps
-- **Day 3:** Pandas for Data Handling
+- **Day 4:** Data Cleaning and Preprocessing
 - Continue exploring **real-world ML applications**
 
 Stay consistent and let's **master Machine Learning!** 🚀
