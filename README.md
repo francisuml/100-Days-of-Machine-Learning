@@ -4,12 +4,14 @@
 Welcome to the **100-Day Machine Learning Project**! This journey is designed to take you from the fundamentals of Machine Learning to advanced techniques, tackling **real-world industry problems** along the way. Each day, we focus on a specific topic, completing hands-on coding exercises, building projects, and developing a **machine learning portfolio**.
 
 ## 📅 Progress
-| Day | Topic |
-|----|-----------------------------|
-| 1  | Introduction to Machine Learning |
-| 2  | NumPy for Machine Learning |
-| 3  | Pandas for Data Handling |
-| 4  | Data Visualization with Matplotlib, Seaborn & Plotly |
+| Day | Topic | Description |
+|----|--------|-------------|
+| 1  | Introduction to ML | Understanding ML concepts, types, and applications |
+| 2  | NumPy | Mastering arrays, image manipulation, and basic computations |
+| 3  | Pandas | Data manipulation, filtering, and analysis with Pandas |
+| 4  | Data Visualization | Using Matplotlib, Seaborn, and Plotly for data insights |
+| 5  | Data Preprocessing | Handling missing values, encoding, and normalizing data |
+
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -19,17 +21,18 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 
 ## 📂 Folder Structure
 ```
-100_Days_ML/
-│── Day1_ML_Intro/       # Introduction to Machine Learning
-│── Day2_NumPy/          # NumPy for Machine Learning
-│── Day3_Pandas/         # Pandas for Data Handling
-│── README.md            # This file (Project Overview)
-│── Day4_Data Visualization with Matplotlib, Seaborn & Plotly/         # Pandas for Data Handling
-│── README.md            # This file (Project Overview)
+100-days-ml/
+│── Day1_ML_Intro/
+│── Day2_NumPy/
+│── Day3_Pandas/
+│── Day4_Visualization/
+│── Day5_Data_Preprocessing/
+│── ...
 ```
 
-## 📌 Next Steps
-- **Day 5:** Data Preprocessing
-- Continue exploring **real-world ML applications**
+## 🔥 Goals
+- Learn and apply ML techniques
+- Work on real-world datasets
+- Build a solid ML portfolio
 
 Stay consistent and let's **master Machine Learning!** 🚀
