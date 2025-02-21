@@ -23,7 +23,7 @@ Data preprocessing is a crucial step in Machine Learning. Today, we will explore
 10. Save the cleaned dataset for further analysis.
 
 ## 📊 Dataset
-We will use the **Google Play Store Apps Dataset** from Kaggle.
+We will use the **apps.csv**.
 
 ## 📝 Instructions
 - Load the dataset and inspect the structure.
