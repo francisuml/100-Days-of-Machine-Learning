@@ -12,6 +12,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 4  | Data Visualization | Using Matplotlib, Seaborn, and Plotly for data insights |
 | 5  | Data Preprocessing | Handling missing values, encoding, and normalizing data |
 | 6  | Probabilities and Statistics |Understanding mean, median, variance, standard deviation, and probability distributions |
+| 7  | Linear Algebra in ML | Vectors, matrices, dot products, eigenvalues, and transformations |
+
 
 
 ## 🎯 Goals
@@ -29,6 +31,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 │── Day4_Visualization/
 │── Day5_Data_Preprocessing/
 │── Day6_Probabilities&Statistics/
+|── Day7_LinearAlgebrainMachineLearning/
 ```
 
 ## 🔥 Goals
