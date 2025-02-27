@@ -14,6 +14,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 6  | Probabilities and Statistics |Understanding mean, median, variance, standard deviation, and probability distributions |
 | 7  | Linear Algebra in ML | Vectors, matrices, dot products, eigenvalues, and transformations |
 | 8  | Gradient Descent | Compute the gradient (derivative) of the cost function, Update parameters|
+| 9  | Cost Functions & Loss Functions in Machine Learning| Understanding Cost & Loss Functions, Mathematical Formula |
 
 
 ## 🎯 Goals
@@ -33,6 +34,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 │── Day6_Probabilities&Statistics/
 |── Day7_LinearAlgebrainMachineLearning/
 |── Day8_GradientDescent/
+|── Day9_CossandLostFunction/
 ```
 
 ## 🔥 Goals
