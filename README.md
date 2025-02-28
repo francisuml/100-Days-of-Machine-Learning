@@ -35,6 +35,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day7_LinearAlgebrainMachineLearning/
 |── Day8_GradientDescent/
 |── Day9_CossandLostFunction/
+|── Day10_EvaluatingMLModels/
 ```
 
 ## 🔥 Goals
