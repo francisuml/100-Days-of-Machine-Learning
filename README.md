@@ -15,7 +15,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 7  | Linear Algebra in ML | Vectors, matrices, dot products, eigenvalues, and transformations |
 | 8  | Gradient Descent | Compute the gradient (derivative) of the cost function, Update parameters|
 | 9  | Cost Functions & Loss Functions in Machine Learning| Understanding Cost & Loss Functions, Mathematical Formula |
-
+| 10 | Evaluating Machine Learning Models | Accuracy, Precision, F1-Score, ROC curve|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
