@@ -16,6 +16,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 8  | Gradient Descent | Compute the gradient (derivative) of the cost function, Update parameters|
 | 9  | Cost Functions & Loss Functions in Machine Learning| Understanding Cost & Loss Functions, Mathematical Formula |
 | 10 | Evaluating Machine Learning Models | Accuracy, Precision, F1-Score, ROC curve|
+| 11 | Machine Learning Work Flow| Understanding the ML Workflow|
+| 12 | Supervised Learning | What is Supervised Learning|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -36,6 +38,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day8_GradientDescent/
 |── Day9_CossandLostFunction/
 |── Day10_EvaluatingMLModels/
+|── Day11_MachineLearningWorkFlow/
+|── Day12_SupervisedLearning/
 ```
 
 ## 🔥 Goals
