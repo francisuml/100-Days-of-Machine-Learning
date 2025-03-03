@@ -1,15 +1,15 @@
-Day 13: Unsupervised Learning 🚀
+# Day 13: Unsupervised Learning 🚀
 
-Objective
+### Objective
 
 Today, we explored Unsupervised Learning, a powerful machine learning technique used to identify patterns in data without predefined labels. Unlike Supervised Learning, where models learn from labeled data, Unsupervised Learning finds hidden structures within the dataset.
-In this notebook, we will:
-✔️ Understand Clustering and Dimensionality Reduction
-✔️ Implement K-Means and DBSCAN for clustering
-✔️ Apply Principal Component Analysis (PCA) for feature reduction
-✔️ Visualize high-dimensional data in 2D and 3D using Plotly
-✔️ Analyze real-world applications of unsupervised learning
-1️⃣ Understanding Clustering
+In this notebook, we will:<br>
+✔️ Understand Clustering and Dimensionality Reduction<br>
+✔️ Implement K-Means and DBSCAN for clustering<br>
+✔️ Apply Principal Component Analysis (PCA) for feature reduction<br>
+✔️ Visualize high-dimensional data in 2D and 3D using Plotly<br>
+✔️ Analyze real-world applications of unsupervised learning<br>
+1️⃣ Understanding Clustering<br>
 
 Clustering is the process of grouping similar data points together. It is widely used in:
 Customer segmentation (grouping customers based on behavior)
