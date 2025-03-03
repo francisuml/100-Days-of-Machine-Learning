@@ -1,32 +1,72 @@
-# Day 13: Unsupervised Learning
+Day 13: Unsupervised Learning 🚀
 
-🚀 Objective
+Objective
 
-Today, we explored Unsupervised Learning, a powerful machine learning technique used to uncover hidden patterns in data without labeled outputs. Unlike supervised learning, where we train models with input-output pairs, unsupervised learning finds structure in the data itself.
-We applied clustering and dimensionality reduction techniques to analyze real-world data, grouping similar entities and reducing the dataset's complexity for better visualization and interpretation.
-📌 What We Did
+Today, we explored Unsupervised Learning, a powerful machine learning technique used to identify patterns in data without predefined labels. Unlike Supervised Learning, where models learn from labeled data, Unsupervised Learning finds hidden structures within the dataset.
+In this notebook, we will:
+✔️ Understand Clustering and Dimensionality Reduction
+✔️ Implement K-Means and DBSCAN for clustering
+✔️ Apply Principal Component Analysis (PCA) for feature reduction
+✔️ Visualize high-dimensional data in 2D and 3D using Plotly
+✔️ Analyze real-world applications of unsupervised learning
+1️⃣ Understanding Clustering
 
-Clustering with K-Means & DBSCAN: We grouped data points based on similarities, allowing us to identify meaningful clusters in the dataset.
-Dimensionality Reduction with PCA: We reduced the number of features while preserving important patterns, making it easier to visualize the dataset in 2D and 3D.
-Robust Visualizations: We used Plotly to create interactive plots, helping us understand how data points are distributed and clustered.
-Real-World Application: We applied these techniques to a dataset that contains socio-economic and health indicators for various countries, demonstrating how unsupervised learning can be used for pattern discovery.
-🔥 Why This Matters
+Clustering is the process of grouping similar data points together. It is widely used in:
+Customer segmentation (grouping customers based on behavior)
+Anomaly detection (fraud detection in transactions)
+Genomics (identifying gene expression patterns)
+🔹 K-Means Clustering
+K-Means is a centroid-based clustering algorithm that partitions data into K clusters. Each cluster is defined by a centroid, and points are assigned to the nearest centroid.
+📌 Steps:
+Choose the number of clusters (K).
+Randomly initialize cluster centroids.
+Assign each data point to the nearest centroid.
+Update centroids based on cluster assignments.
+Repeat until convergence.
+🔍 Finding the Optimal K: We used the Elbow Method, which evaluates the Within-Cluster Sum of Squares (WCSS) to determine the best number of clusters.
+🔹 DBSCAN (Density-Based Spatial Clustering)
+Unlike K-Means, DBSCAN (Density-Based Spatial Clustering of Applications with Noise) does not require specifying the number of clusters. Instead, it groups points based on density, making it effective for datasets with varying cluster sizes and noise.
+2️⃣ Dimensionality Reduction with PCA
 
-Unsupervised learning is a crucial tool in machine learning, enabling us to:
-✅ Discover natural groupings in data (e.g., customer segmentation, anomaly detection).
-✅ Reduce complexity while maintaining meaningful information.
-✅ Find insights in unstructured datasets where labels are not available.
-Mastering unsupervised learning is a stepping stone to more advanced AI applications, such as anomaly detection, recommendation systems, and deep learning autoencoders.
-🛠 Challenges Faced & How We Overcame Them
+High-dimensional data can be challenging to visualize and analyze. Principal Component Analysis (PCA) helps by transforming the data into a lower-dimensional space while preserving essential information.
+✔️ Why Use PCA?
+Reduces computation time
+Helps visualize complex datasets in 2D/3D
+Removes redundant information
+📌 How It Works:
+Standardize the data (mean = 0, variance = 1).
+Compute the covariance matrix.
+Extract eigenvalues and eigenvectors.
+Project the data onto principal components.
+We used PCA1 and PCA2 to visualize our clustering results effectively.
+3️⃣ Visualizing the Clusters with Plotly
 
-Choosing the Optimal Number of Clusters: We used the Elbow Method to determine the best number of clusters in K-Means.
-Interpreting Clusters Meaningfully: We analyzed feature importance to understand the differences between clusters.
-Handling High-Dimensional Data: We used Principal Component Analysis (PCA) to visualize high-dimensional data effectively.
-🎯 What’s Next?
+After applying clustering techniques, we created robust interactive 2D and 3D visualizations to interpret our results.
+import plotly.express as px
 
-Tomorrow, we will dive into a critical concept in machine learning:
+🔍 Interpreting the Graphs
+K-Means Clustering Plot: Shows distinct groups based on the optimal number of clusters selected.
+DBSCAN Plot: Highlights how the density-based approach forms clusters while marking outliers.
+4️⃣ Challenges & Solutions
+
+🔸 Choosing the Optimal Number of Clusters
+✔️ Used the Elbow Method to determine the best K value.
+🔸 Handling High-Dimensional Data
+✔️ Applied PCA to visualize clusters in a reduced feature space.
+🔸 Noise & Outliers in DBSCAN
+✔️ Tuned epsilon (ε) and minimum samples to balance sensitivity.
+5️⃣ Real-World Applications
+
+🚀 Unsupervised Learning is used in:
+✅ Customer segmentation in marketing
+✅ Fraud detection in financial transactions
+✅ Anomaly detection in cybersecurity
+✅ Pattern recognition in genetics
+🔜 What’s Next?
+
+Tomorrow, we will dive into a crucial topic:
 📌 Day 14: Overfitting & Underfitting
-Learn how models can perform well on training data but fail in real-world applications.
-Understand how to balance model complexity to improve generalization.
-Apply techniques like cross-validation and regularization to optimize performance.
-Stay consistent, keep practicing, and let’s continue mastering machine learning! 🚀
+Understand why models fail to generalize to new data
+Learn techniques to balance bias and variance
+Implement cross-validation and regularization to improve model performance
+By mastering Unsupervised Learning, you are building a strong foundation for more advanced AI applications. Keep learning, stay curious, and let’s continue the journey! 🚀
