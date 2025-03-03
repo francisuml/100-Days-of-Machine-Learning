@@ -9,6 +9,7 @@ In this notebook, we will:<br>
 ✔️ Apply Principal Component Analysis (PCA) for feature reduction<br>
 ✔️ Visualize high-dimensional data in 2D and 3D using Plotly<br>
 ✔️ Analyze real-world applications of unsupervised learning<br>
+
 ---
 #### 1️⃣ Understanding Clustering<br>
 
@@ -54,6 +55,7 @@ import plotly.express as px
 🔍 Interpreting the Graphs
 K-Means Clustering Plot: Shows distinct groups based on the optimal number of clusters selected.
 DBSCAN Plot: Highlights how the density-based approach forms clusters while marking outliers.
+
 ---
 #### 4️⃣ Challenges & Solutions
 
@@ -63,6 +65,7 @@ DBSCAN Plot: Highlights how the density-based approach forms clusters while mark
 ✔️ Applied PCA to visualize clusters in a reduced feature space.
 🔸 Noise & Outliers in DBSCAN
 ✔️ Tuned epsilon (ε) and minimum samples to balance sensitivity.
+
 ---
 #### 5️⃣ Real-World Applications
 
