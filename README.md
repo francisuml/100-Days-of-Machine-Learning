@@ -19,6 +19,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 11 | Machine Learning Work Flow| Understanding the ML Workflow|
 | 12 | Supervised Learning | What is Supervised Learning?|
 | 13 | Unsupervised Learning | What is Unsupervised Learning?|
+| 14 | Overfitting and Underfitting | What is Overfitting and Underfitting?|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -42,6 +43,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day11_MachineLearningWorkFlow/
 |── Day12_SupervisedLearning/
 |── Day13_UnsupervisedLearning/
+|── Day14_OverfittingandUnderfitting
 ```
 
 ## 🔥 Goals
