@@ -34,3 +34,13 @@ This dataset is **ideal** because it allows us to practice:
 - Applying **feature engineering** to improve model performance.
 
 ---
+
+🎯 Motivation for the Next Topic: Overcoming Real-World ML Challenges
+
+Now that we know how to prepare real-world data, it’s time to tackle a critical challenge:
+➡️ "How do we prevent models from failing?" 🤔
+📌 In Day 16, we will explore Overfitting & Underfitting in Real-World ML Models:
+Understand how to balance model complexity.
+Learn about Cross-validation & Regularization techniques.
+Prevent machine learning models from making poor generalizations.
+🚀 Stay tuned for another deep dive!
