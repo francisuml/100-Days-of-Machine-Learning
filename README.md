@@ -20,6 +20,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 12 | Supervised Learning | What is Supervised Learning?|
 | 13 | Unsupervised Learning | What is Unsupervised Learning?|
 | 14 | Overfitting and Underfitting | What is Overfitting and Underfitting?|
+| 15 | How do we work with real datasets? | Load, clean, and analyze datasets|
+| 16 | What are Feature Engineering & Selection? | Learn feature scaling, polynomial features, feature importance|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -43,7 +45,9 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day11_MachineLearningWorkFlow/
 |── Day12_SupervisedLearning/
 |── Day13_UnsupervisedLearning/
-|── Day14_OverfittingandUnderfitting
+|── Day14_OverfittingandUnderfitting/
+|── Day15_HowtoHandleDataSet?/
+|── Day16_FeatureEngineeringandSelection/
 ```
 
 ## 🔥 Goals
