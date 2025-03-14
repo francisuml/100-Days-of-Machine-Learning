@@ -22,6 +22,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 14 | Overfitting and Underfitting | What is Overfitting and Underfitting?|
 | 15 | How do we work with real datasets? | Load, clean, and analyze datasets|
 | 16 | What are Feature Engineering & Selection? | Learn feature scaling, polynomial features, feature importance|
+| 17 | What Model Selection? | Learn cross-validation, bias-variance tradeoff.	Choose the best model for a dataset.|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -48,6 +49,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day14_OverfittingandUnderfitting/
 |── Day15_HowtoHandleDataSet?/
 |── Day16_FeatureEngineeringandSelection/
+|── Day17_ModelSelection/
 ```
 
 ## 🔥 Goals
