@@ -15,14 +15,15 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 7  | Linear Algebra in ML | Vectors, matrices, dot products, eigenvalues, and transformations |
 | 8  | Gradient Descent | Compute the gradient (derivative) of the cost function, Update parameters|
 | 9  | Cost Functions & Loss Functions in Machine Learning| Understanding Cost & Loss Functions, Mathematical Formula |
-| 10 | Evaluating Machine Learning Models | Accuracy, Precision, F1-Score, ROC curve|
-| 11 | Machine Learning Work Flow| Understanding the ML Workflow|
-| 12 | Supervised Learning | What is Supervised Learning?|
+| 10 | Evaluating Machine Learning Models | Accuracy, Precision, F1-Score, ROC curve |
+| 11 | Machine Learning Work Flow| Understanding the ML Workflow |
+| 12 | Supervised Learning | What is Supervised Learning? |
 | 13 | Unsupervised Learning | What is Unsupervised Learning?|
 | 14 | Overfitting and Underfitting | What is Overfitting and Underfitting?|
 | 15 | How do we work with real datasets? | Load, clean, and analyze datasets|
 | 16 | What are Feature Engineering & Selection? | Learn feature scaling, polynomial features, feature importance|
-| 17 | What Model Selection? | Learn cross-validation, bias-variance tradeoff.	Choose the best model for a dataset.|
+| 17 | What is Model Selection? | Learn cross-validation, bias-variance tradeoff.	Choose the best model for a dataset.|
+| 18 | What is Hyperparameter Tuning? | Learn Grid Search, Random Search, Bayesian Optimization.	Optimize models effectively.|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -50,6 +51,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day15_HowtoHandleDataSet?/
 |── Day16_FeatureEngineeringandSelection/
 |── Day17_ModelSelection/
+|── Day18_HyperparameterTuning/
 ```
 
 ## 🔥 Goals
