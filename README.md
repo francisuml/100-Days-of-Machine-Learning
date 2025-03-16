@@ -24,6 +24,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 16 | What are Feature Engineering & Selection? | Learn feature scaling, polynomial features, feature importance|
 | 17 | What is Model Selection? | Learn cross-validation, bias-variance tradeoff.	Choose the best model for a dataset.|
 | 18 | What is Hyperparameter Tuning? | Learn Grid Search, Random Search, Bayesian Optimization.	Optimize models effectively.|
+| 19 | What is Pipeline and Automations in Machine Learning? | Understand why pipelines & automation are essential in ML workflows.|
+
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -52,6 +54,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day16_FeatureEngineeringandSelection/
 |── Day17_ModelSelection/
 |── Day18_HyperparameterTuning/
+|── Day19_Pipeline&Automations/
 ```
 
 ## 🔥 Goals
