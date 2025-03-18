@@ -25,6 +25,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 17 | What is Model Selection? | Learn cross-validation, bias-variance tradeoff.	Choose the best model for a dataset.|
 | 18 | What is Hyperparameter Tuning? | Learn Grid Search, Random Search, Bayesian Optimization.	Optimize models effectively.|
 | 19 | What is Pipeline and Automations in Machine Learning? | Understand why pipelines & automation are essential in ML workflows.|
+| 20 | How to Structure Machine Learning Projects? | Apply everything on a new dataset.	Prepare for the next phase. |
 
 
 ## 🎯 Goals
@@ -55,6 +56,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day17_ModelSelection/
 |── Day18_HyperparameterTuning/
 |── Day19_Pipeline&Automations/
+|── Day20_StructureofMachineLearningProjects/
 ```
 
 ## 🔥 Goals
