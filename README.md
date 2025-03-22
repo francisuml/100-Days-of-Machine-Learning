@@ -30,6 +30,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 22 | How do we interpret Linear Regression results? | Learn R², residual plots, and diagnostics. |
 | 23 | How does Logistic Regression work? | Implement Logistic Regression. |
 | 24 | How do Decision Trees work? | Learn about entropy, Gini impurity, pruning. |
+| 25 | How does Random Forest work?	| Implement Random Forest from scratch. |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -64,6 +65,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day22_InterpretLinearRegression/
 |── Day23_UnderstandingandImplementingLogisticRegression/
 |── Day24_UnderstandingDecisionTrees/
+|── Day25_UnderstandingandImplementingRandomForests/
 ```
 
 ## 🔥 Goals
