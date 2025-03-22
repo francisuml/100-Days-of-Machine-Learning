@@ -27,6 +27,9 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 19 | What is Pipeline and Automations in Machine Learning? | Understand why pipelines & automation are essential in ML workflows.|
 | 20 | How to Structure Machine Learning Projects? | Apply everything on a new dataset.	Prepare for the next phase. |
 | 21 | How does Linear Regression work? | Implement Linear Regression from scratch. |
+| 22 | How do we interpret Linear Regression results? | Learn R², residual plots, and diagnostics. |
+| 23 | How does Logistic Regression work? | Implement Logistic Regression. |
+| 24 | How do Decision Trees work? | Learn about entropy, Gini impurity, pruning. |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -58,6 +61,9 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day19_Pipeline&Automations/
 |── Day20_StructureofMachineLearningProjects/
 |── Day21_LinearRegression/
+|── Day22_InterpretLinearRegression/
+|── Day23_UnderstandingandImplementingLogisticRegression/
+|── Day24_UnderstandingDecisionTrees/
 ```
 
 ## 🔥 Goals
