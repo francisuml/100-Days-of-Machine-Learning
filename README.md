@@ -32,6 +32,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 24 | How do Decision Trees work? | Learn about entropy, Gini impurity, pruning. |
 | 25 | How does Random Forest work?	| Implement Random Forest from scratch. |
 | 26 | Understanding and Implementing k-NearestNeighbors (k-NN) | Implement k-NN classification. |
+| 27 | Understanding Support Vector Machine (SVM) | Learn kernel tricks, margin maximization. |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -68,6 +69,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day24_UnderstandingDecisionTrees/
 |── Day25_UnderstandingandImplementingRandomForests/
 |── Day26_UnderstandingKNN/
+|── Day27_SupportVectorMachine/
 ```
 
 ## 🔥 Goals
