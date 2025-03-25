@@ -30,9 +30,9 @@ In classification, \( A \) represents the **class label**, and \( B \) represent
 
 The key assumption in Naïve Bayes is **feature independence**, meaning:
 
-\begin{equation}
+\[
 P(A|B_1, B_2, ..., B_n) = \frac{P(B_1|A) P(B_2|A) ... P(B_n|A) P(A)}{P(B_1, B_2, ..., B_n)}
-\end{equation}
+\]
 
 Common types of Naïve Bayes classifiers:
 
