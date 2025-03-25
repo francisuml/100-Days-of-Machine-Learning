@@ -1,3 +1,4 @@
+
 # 📌 Day 28: Naïve Bayes - Probability-Based Classification
 
 ## 📖 Introduction
@@ -53,6 +54,6 @@ For today's hands-on practice, we'll:
 
 ## 🔥 What's Next?
 
-Tomorrow (Day 29), we will explore **What is Model Bias & Variance?s** 🌳!
+Tomorrow (Day 29), we will explore **What is Model Bias & Variance?** 🌳!
 
 Stay motivated and keep learning! 🚀  
