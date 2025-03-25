@@ -53,6 +53,6 @@ For today's hands-on practice, we'll:
 
 ## 🔥 What's Next?
 
-Tomorrow (Day 29), we will explore **What is Model Bias & Variance?** 🌳!  
+Tomorrow (Day 29), we will explore **What is Model Bias & Variance?s** 🌳!
 
 Stay motivated and keep learning! 🚀  
