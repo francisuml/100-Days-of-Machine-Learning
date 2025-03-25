@@ -1,59 +1,61 @@
+# **Understanding Naïve Bayes Classifier**
 
-# 📌 Day 28: Naïve Bayes - Probability-Based Classification
+## **1. Bayes' Theorem**
+The Naïve Bayes classifier is based on **Bayes' Theorem**, which states:
 
-## 📖 Introduction
+\[
+P(A|B) = \frac{P(B|A) P(A)}{P(B)}
+\]
 
-Naïve Bayes is a **probabilistic classifier** based on Bayes' Theorem, assuming that features are **conditionally independent** given the class label. It is widely used for **text classification, spam filtering, and sentiment analysis.**
+where:
+- \( P(A|B) \) is the **posterior probability** (the probability of hypothesis \( A \) given the data \( B \)).
+- \( P(B|A) \) is the **likelihood** (the probability of the data \( B \) given the hypothesis \( A \)).
+- \( P(A) \) is the **prior probability** (the probability of hypothesis \( A \) before observing the data).
+- \( P(B) \) is the **marginal probability** (the probability of observing the data \( B \) over all possible hypotheses).
 
----
+## **2. Naïve Bayes Assumption**
+The **Naïve Bayes classifier** assumes that features are **conditionally independent**, meaning:
 
-## 🧠 Understanding Bayes' Theorem
+\[
+P(B_1, B_2, ..., B_n | A) = P(B_1 | A) P(B_2 | A) ... P(B_n | A)
+\]
 
-Bayes' Theorem is expressed as:
-
-\begin{equation}
-P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
-\end{equation}
-
-Where:
-
-- \( P(A|B) \) → Probability of **A occurring given B is true** (posterior probability)
-- \( P(B|A) \) → Probability of **B occurring given A is true** (likelihood)
-- \( P(A) \) → **Prior probability** of A occurring
-- \( P(B) \) → **Marginal probability** of B occurring
-
-In classification, \( A \) represents the **class label**, and \( B \) represents **features**.
-
----
-
-## 🏗️ Naïve Bayes Classifiers
-
-The key assumption in Naïve Bayes is **feature independence**, meaning:
+Using this assumption, we can expand Bayes' Theorem:
 
 \[
 P(A|B_1, B_2, ..., B_n) = \frac{P(B_1|A) P(B_2|A) ... P(B_n|A) P(A)}{P(B_1, B_2, ..., B_n)}
 \]
 
-Common types of Naïve Bayes classifiers:
+Since the denominator \( P(B_1, B_2, ..., B_n) \) is the same for all classes, we can ignore it for classification purposes.
 
-- **Gaussian Naïve Bayes** (for continuous data)
-- **Multinomial Naïve Bayes** (for text classification)
-- **Bernoulli Naïve Bayes** (for binary data)
+## **3. Naïve Bayes Decision Rule**
+To classify a new data point \( X = (B_1, B_2, ..., B_n) \), we compute:
+
+\[
+\hat{y} = \arg\max_{A} P(A) \prod_{i=1}^{n} P(B_i | A)
+\]
+
+where:
+- \( \hat{y} \) is the predicted class.
+- \( A \) represents different possible classes.
+- \( P(A) \) is the prior probability of class \( A \).
+- \( P(B_i | A) \) is the probability of feature \( B_i \) given class \( A \).
+
+## **4. Types of Naïve Bayes Classifiers**
+There are three main types of Naïve Bayes classifiers:
+1. **Gaussian Naïve Bayes** – Assumes features follow a normal (Gaussian) distribution.
+2. **Multinomial Naïve Bayes** – Used for text classification (e.g., spam detection).
+3. **Bernoulli Naïve Bayes** – Used for binary feature data (e.g., word presence/absence).
+
+## **5. Practical Implementation**
+We will implement Naïve Bayes on a real-world dataset, visualize decision boundaries, and interpret model performance.
 
 ---
 
-## ✨ Hands-On Practice
+### **Next Day: Day 29 - Decision Trees**
+Tomorrow, we will learn about **Decision Trees**, a powerful non-linear classification model. We will explore:
+- How Decision Trees split data using **entropy** and **Gini impurity**.
+- The process of **pruning** to prevent overfitting.
+- Building Decision Trees for classification tasks with stunning visualizations!
 
-For today's hands-on practice, we'll:
-
-✅ Implement **Gaussian Naïve Bayes** on a real dataset.  
-✅ Visualize the **decision boundaries** to understand classification regions.  
-✅ Evaluate model **accuracy, precision, recall, and F1-score.**  
-
----
-
-## 🔥 What's Next?
-
-Tomorrow (Day 29), we will explore **What is Model Bias & Variance?** 🌳!
-
-Stay motivated and keep learning! 🚀  
+🚀 **Stay motivated and keep learning!** 🚀
