@@ -33,6 +33,9 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 25 | How does Random Forest work?	| Implement Random Forest from scratch. |
 | 26 | Understanding and Implementing k-NearestNeighbors (k-NN) | Implement k-NN classification. |
 | 27 | Understanding Support Vector Machine (SVM) | Learn kernel tricks, margin maximization. |
+| 28 | Understanding Naïve Bayes | Implement Naïve Bayes classifier. |
+| 29 | Understanding Model Bias & Variance? | Study learning curves, diagnostics. |
+
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -70,6 +73,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day25_UnderstandingandImplementingRandomForests/
 |── Day26_UnderstandingKNN/
 |── Day27_SupportVectorMachine/
+|── Day28_NaïveBayesClassifier/
+|── Day29_BiasandVariance/
 ```
 
 ## 🔥 Goals
