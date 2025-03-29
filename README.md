@@ -35,6 +35,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 27 | Understanding Support Vector Machine (SVM) | Learn kernel tricks, margin maximization. |
 | 28 | Understanding Naïve Bayes | Implement Naïve Bayes classifier. |
 | 29 | Understanding Model Bias & Variance? | Study learning curves, diagnostics. |
+| 30 | Optimize ML models| Learn hyperparameter tuning. |
 
 
 ## 🎯 Goals
@@ -75,6 +76,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day27_SupportVectorMachine/
 |── Day28_NaïveBayesClassifier/
 |── Day29_BiasandVariance/
+|── Day30_OptimizingMachineLearningModels/
 ```
 
 ## 🔥 Goals
