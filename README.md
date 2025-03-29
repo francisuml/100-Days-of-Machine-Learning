@@ -36,6 +36,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 28 | Understanding Naïve Bayes | Implement Naïve Bayes classifier. |
 | 29 | Understanding Model Bias & Variance? | Study learning curves, diagnostics. |
 | 30 | Optimize ML models| Learn hyperparameter tuning. |
+| 31 | What is Model Regularization?| Learn Ridge, Lasso, and ElasticNet regression. |
 
 
 ## 🎯 Goals
@@ -77,6 +78,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day28_NaïveBayesClassifier/
 |── Day29_BiasandVariance/
 |── Day30_OptimizingMachineLearningModels/
+|── Day31_ModelRegularization/
 ```
 
 ## 🔥 Goals
