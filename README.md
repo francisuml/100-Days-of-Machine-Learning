@@ -37,6 +37,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 29 | Understanding Model Bias & Variance? | Study learning curves, diagnostics. |
 | 30 | Optimize ML models| Learn hyperparameter tuning. |
 | 31 | What is Model Regularization?| Learn Ridge, Lasso, and ElasticNet regression. |
+| 32 | What is Polynomial Regression?| Implement Polynomial Regression from scratch. |
 
 
 ## 🎯 Goals
@@ -79,6 +80,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day29_BiasandVariance/
 |── Day30_OptimizingMachineLearningModels/
 |── Day31_ModelRegularization/
+|__ Day32_PolynomialRegression/
 ```
 
 ## 🔥 Goals
