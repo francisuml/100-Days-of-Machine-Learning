@@ -40,7 +40,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 32 | What is Polynomial Regression?| Implement Polynomial Regression from scratch. |
 | 33 | How do we handle Imbalanced Data? | Learn SMOTE, weighted loss functions. |
 | 34 | What is Feature Engineering? | Extract meaningful features from raw data.|
-
+| 35 | What is Regression Trees? | Implement Regression Trees.|
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -85,6 +85,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |__ Day32_PolynomialRegression/
 |__ Day33_ImbalancedDatasets/
 |__ Day34_FeatureEngineering/
+|__ Day35_RegressorTrees/
 ```
 
 ## 🔥 Goals
