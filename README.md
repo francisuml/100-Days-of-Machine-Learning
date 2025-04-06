@@ -39,6 +39,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 31 | What is Model Regularization?| Learn Ridge, Lasso, and ElasticNet regression. |
 | 32 | What is Polynomial Regression?| Implement Polynomial Regression from scratch. |
 | 33 | How do we handle Imbalanced Data? | Learn SMOTE, weighted loss functions. |
+| 34 | What is Feature Engineering? | Extract meaningful features from raw data.|
 
 
 ## 🎯 Goals
@@ -83,6 +84,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |── Day31_ModelRegularization/
 |__ Day32_PolynomialRegression/
 |__ Day33_ImbalancedDatasets/
+|__ Day34_FeatureEngineering/
 ```
 
 ## 🔥 Goals
