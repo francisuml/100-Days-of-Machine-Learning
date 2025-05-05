@@ -42,6 +42,9 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 34 | What is Feature Engineering? | Extract meaningful features from raw data.|
 | 36 | What is Boosting in ML | Learn AdaBoost, Gradient Boosting|
 | 37 | What is XGBoost & Why is it Powerful?? | Implement XGBoost for classification and regression.|
+| 38 | How does LightGBM compare to XGBoost? | Implement LightGBM and compare with XGBoost.|
+| 39 | What is Stacking & Blending? | Learn ensemble learning techniques.|
+| 40 | How do we structure ML Pipelines? | Build an end-to-end supervised ML pipeline |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -89,6 +92,9 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |__ Day35_RegressorTrees/
 |__ Day36_MLBoosting/
 |__ Day37_XGBoost/
+|__ Day38_LightGBM/
+|__ Day39_Stacking&Blending/
+|__ Day40_StructureMLPipelines/
 ```
 
 ## 🔥 Goals
