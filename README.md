@@ -45,6 +45,7 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 | 38 | How does LightGBM compare to XGBoost? | Implement LightGBM and compare with XGBoost.|
 | 39 | What is Stacking & Blending? | Learn ensemble learning techniques.|
 | 40 | How do we structure ML Pipelines? | Build an end-to-end supervised ML pipeline |
+| 41 | What is Clustering? | Learn K-Means, DBSCAN. |
 
 ## 🎯 Goals
 ✅ Build a **strong foundation in ML**
@@ -95,6 +96,8 @@ Welcome to the **100-Day Machine Learning Project**! This journey is designed to
 |__ Day38_LightGBM/
 |__ Day39_Stacking&Blending/
 |__ Day40_StructureMLPipelines/
+|__ Day41_Clustering/
+
 ```
 
 ## 🔥 Goals
